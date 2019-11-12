@@ -1,0 +1,70 @@
+.h1 {
+
+    text-align: center;
+    background-color: #343A40;
+    width: 100%;
+    color: white;
+
+}
+
+.form {
+    text-align: center;
+}
+
+.form #weatherSubmit {
+    margin: 10px;
+}
+
+.form #weatherInput {
+    margin: 15px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#343A40;
+    color: white;
+    text-align: center;
+  }
+
+  .footer2 {
+    margin: 5px;
+  }
+
+  a.b:link
+{
+  color: white;
+   text-decoration: none;
+}
+a.b:visited
+{
+  color: white;
+   text-decoration: none;
+}
+a.b:hover
+{
+  color: blue;
+   text-decoration: none;
+}
+a.b:active
+{
+  color: white;
+   text-decoration: none;
+}
+
+
+#weatherResults {
+    text-align: center;
+}
+
+#weatherForecast {
+  columns: 5;
+}
+
+fieldset { 
+    
+    border: 2px groove (internal value);
+    margin-bottom: 10px;
+  }
